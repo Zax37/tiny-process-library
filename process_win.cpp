@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "process.hpp"
 #include <windows.h>
 #include <cstring>

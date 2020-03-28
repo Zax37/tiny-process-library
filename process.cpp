@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "process.hpp"
 
 namespace TinyProcessLib {
